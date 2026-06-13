@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Cyberpunk City",
+    "category": "wallpapers",
+    "imageUrl": "images/wallpapers/cyberpunk-city.webp",
+    "tool": "Midjourney",
+    "tags": [
+      "cyberpunk",
+      "city",
+      "neon"
+    ],
+    "prompt": "Ultra detailed cyberpunk city at night with neon signs, rain reflections, clean futuristic architecture, cinematic atmosphere, vibrant lighting, sharp focus, high detail, mobile wallpaper composition"
+  },
+  {
+    "id": 2,
+    "title": "Mountain Sunrise",
+    "category": "wallpapers",
+    "imageUrl": "images/wallpapers/mountain-sunrise.webp",
+    "tool": "Stable Diffusion",
+    "tags": [
+      "mountains",
+      "sunrise",
+      "nature"
+    ],
+    "prompt": "Peaceful mountain valley at sunrise, golden light over snow capped peaks, soft mist, clear lake reflection, natural colors, detailed landscape photography style, vertical mobile wallpaper"
+  },
+  {
+    "id": 3,
+    "title": "Minimal Space Orbit",
+    "category": "wallpapers",
+    "imageUrl": "images/wallpapers/minimal-space-orbit.webp",
+    "tool": "DALL-E",
+    "tags": [
+      "space",
+      "minimal",
+      "planet"
+    ],
+    "prompt": "Minimal space wallpaper with a small glowing planet orbiting a calm blue star, clean dark background, subtle stars, elegant composition, high contrast, vertical phone wallpaper"
+  },
+  {
+    "id": 4,
+    "title": "Forest Rain Path",
+    "category": "wallpapers",
+    "imageUrl": "images/wallpapers/forest-rain-path.webp",
+    "tool": "Leonardo AI",
+    "tags": [
+      "forest",
+      "rain",
+      "path"
+    ],
+    "prompt": "Lush green forest path after gentle rain, soft light through trees, fresh leaves, peaceful atmosphere, realistic detail, natural color grading, centered vertical wallpaper layout"
+  },
+  {
+    "id": 5,
+    "title": "Abstract Glass Waves",
+    "category": "wallpapers",
+    "imageUrl": "images/wallpapers/abstract-glass-waves.webp",
+    "tool": "Firefly",
+    "tags": [
+      "abstract",
+      "glass",
+      "waves"
+    ],
+    "prompt": "Abstract translucent glass waves flowing over a clean gradient background, soft reflections, premium modern look, crisp details, elegant color contrast, vertical mobile wallpaper"
+  }
+]
+

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Space Explorer",
+    "category": "characters",
+    "imageUrl": "images/characters/space-explorer.webp",
+    "tool": "Midjourney",
+    "tags": [
+      "character",
+      "space",
+      "explorer"
+    ],
+    "prompt": "Original family-friendly space explorer character wearing a sleek suit, transparent helmet, confident pose, colorful nebula background, clean concept art, detailed but simple silhouette"
+  },
+  {
+    "id": 2,
+    "title": "Village Inventor",
+    "category": "characters",
+    "imageUrl": "images/characters/village-inventor.webp",
+    "tool": "Stable Diffusion",
+    "tags": [
+      "character",
+      "inventor",
+      "village"
+    ],
+    "prompt": "Original cheerful village inventor character with handmade tools, practical outfit, small workshop background, warm expression, whimsical details, family-friendly concept art"
+  },
+  {
+    "id": 3,
+    "title": "Forest Ranger",
+    "category": "characters",
+    "imageUrl": "images/characters/forest-ranger.webp",
+    "tool": "Leonardo AI",
+    "tags": [
+      "character",
+      "ranger",
+      "nature"
+    ],
+    "prompt": "Original forest ranger character with green cloak, walking staff, nature-inspired accessories, calm confident pose, soft woodland background, polished fantasy character design"
+  },
+  {
+    "id": 4,
+    "title": "Cloud Pilot",
+    "category": "characters",
+    "imageUrl": "images/characters/cloud-pilot.webp",
+    "tool": "DALL-E",
+    "tags": [
+      "character",
+      "pilot",
+      "clouds"
+    ],
+    "prompt": "Original cloud pilot character with vintage goggles, bright scarf, friendly smile, small flying craft behind them, blue sky setting, clean stylized character illustration"
+  },
+  {
+    "id": 5,
+    "title": "Kind Robot Helper",
+    "category": "characters",
+    "imageUrl": "images/characters/kind-robot-helper.webp",
+    "tool": "Firefly",
+    "tags": [
+      "character",
+      "robot",
+      "helper"
+    ],
+    "prompt": "Original kind robot helper character with rounded shapes, expressive screen face, small utility backpack, bright friendly colors, clean studio background, family-friendly design"
+  }
+]
+

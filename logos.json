@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Eco Leaf Startup Logo",
+    "category": "logos",
+    "imageUrl": "images/logos/eco-leaf-startup.webp",
+    "tool": "Midjourney",
+    "tags": [
+      "logo",
+      "eco",
+      "startup"
+    ],
+    "prompt": "Original eco startup logo concept featuring a clean abstract leaf and circular growth symbol, modern flat vector style, balanced composition, green and white palette, no text"
+  },
+  {
+    "id": 2,
+    "title": "Tech Spark Logo",
+    "category": "logos",
+    "imageUrl": "images/logos/tech-spark.webp",
+    "tool": "Stable Diffusion",
+    "tags": [
+      "logo",
+      "technology",
+      "spark"
+    ],
+    "prompt": "Original technology logo concept with a simple spark shape connected to subtle circuit lines, modern geometric vector style, blue and silver palette, clean negative space, no text"
+  },
+  {
+    "id": 3,
+    "title": "Cafe Bean Logo",
+    "category": "logos",
+    "imageUrl": "images/logos/cafe-bean.webp",
+    "tool": "DALL-E",
+    "tags": [
+      "logo",
+      "cafe",
+      "coffee"
+    ],
+    "prompt": "Original cafe logo concept with an abstract coffee bean and steam icon, warm friendly vector style, simple shapes, cream and deep brown palette, centered emblem, no text"
+  },
+  {
+    "id": 4,
+    "title": "Fitness Pulse Logo",
+    "category": "logos",
+    "imageUrl": "images/logos/fitness-pulse.webp",
+    "tool": "Leonardo AI",
+    "tags": [
+      "logo",
+      "fitness",
+      "pulse"
+    ],
+    "prompt": "Original fitness logo concept using a dynamic pulse line and shield shape, energetic modern vector style, red and charcoal palette, strong readable silhouette, no text"
+  },
+  {
+    "id": 5,
+    "title": "Creative Studio Logo",
+    "category": "logos",
+    "imageUrl": "images/logos/creative-studio.webp",
+    "tool": "Firefly",
+    "tags": [
+      "logo",
+      "creative",
+      "studio"
+    ],
+    "prompt": "Original creative studio logo concept with abstract brush stroke and small star accent, elegant minimal vector style, coral and navy palette, balanced emblem, no text"
+  }
+]
+

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Crystal Kingdom",
+    "category": "fantasy",
+    "imageUrl": "images/fantasy/crystal-kingdom.webp",
+    "tool": "Midjourney",
+    "tags": [
+      "fantasy",
+      "kingdom",
+      "crystal"
+    ],
+    "prompt": "Majestic original fantasy kingdom built from glowing crystals, waterfalls, floating bridges, soft morning light, grand scale, intricate architecture, magical but peaceful atmosphere"
+  },
+  {
+    "id": 2,
+    "title": "Forest Guardian",
+    "category": "fantasy",
+    "imageUrl": "images/fantasy/forest-guardian.webp",
+    "tool": "Stable Diffusion",
+    "tags": [
+      "fantasy",
+      "forest",
+      "guardian"
+    ],
+    "prompt": "Gentle original forest guardian made of vines, leaves, and soft glowing flowers, standing in an ancient woodland, peaceful expression, fantasy realism, rich natural detail"
+  },
+  {
+    "id": 3,
+    "title": "Floating Library",
+    "category": "fantasy",
+    "imageUrl": "images/fantasy/floating-library.webp",
+    "tool": "DALL-E",
+    "tags": [
+      "fantasy",
+      "library",
+      "books"
+    ],
+    "prompt": "Magical floating library in the clouds, shelves of glowing books, spiral staircases, warm lanterns, calm scholarly atmosphere, original fantasy setting, highly detailed"
+  },
+  {
+    "id": 4,
+    "title": "Dragon Valley",
+    "category": "fantasy",
+    "imageUrl": "images/fantasy/dragon-valley.webp",
+    "tool": "Leonardo AI",
+    "tags": [
+      "fantasy",
+      "dragon",
+      "valley"
+    ],
+    "prompt": "Friendly dragon resting in a wide green valley, distant mountains, clear river, sunrise glow, original fantasy creature design, peaceful adventure mood, detailed scenic environment"
+  },
+  {
+    "id": 5,
+    "title": "Enchanted Doorway",
+    "category": "fantasy",
+    "imageUrl": "images/fantasy/enchanted-doorway.webp",
+    "tool": "Firefly",
+    "tags": [
+      "fantasy",
+      "doorway",
+      "magic"
+    ],
+    "prompt": "Ancient enchanted doorway in a mossy stone wall, glowing symbols, soft golden light spilling through, flowers and vines, inviting magical atmosphere, detailed fantasy illustration"
+  }
+]
+
